@@ -2,7 +2,7 @@
 function search() {
     var query = $("#box")[0].value;
 
-    if(query == 'answer') {
+    if(query == 'PEGASUS') {
         window.open('http://yahoo.co.jp');
         return;
     }
