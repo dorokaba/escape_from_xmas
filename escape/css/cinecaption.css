@@ -1,0 +1,8 @@
+@font-face {
+    font-family: cinecaption;
+    src: url('../font/cinecaption2.28.ttf') format("truetype");
+}
+
+body {
+    font-family: 'cinecaption', Fallback, sans-serif;
+}
