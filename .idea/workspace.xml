@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b91d9f6-b87b-41f1-a97d-0cd8d3635f59" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/data/mp4_h264_aac.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/font/cinecaption2.28.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/css/cinecaption.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/html/01_start_button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/html/02_opening_movie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/html/03_rule_introduction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/02_opening_movie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsPractice/html/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsPractice/js/video.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/jsPractice.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jsPractice/.idea/workspace.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/data/01_start_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/data/03_rule.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/data/googlelogo_color_272x92dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/html/11_stage_1_search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/02_serif_maker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/KonamiCommand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/googleSearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/keyControl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escape/js/timer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/escape/html/01_start_button.html" afterPath="$PROJECT_DIR$/escape/html/01_start_button.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/escape/html/02_opening_movie.html" afterPath="$PROJECT_DIR$/escape/html/02_opening_movie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/escape/html/03_rule_introduction.html" afterPath="$PROJECT_DIR$/escape/html/03_rule_introduction.html" />
     </list>
     <ignored path="escape_from_xmas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,56 +36,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_start_button.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/escape/html/01_start_button.html">
+      <file leaf-file-name="02_opening_movie.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/escape/html/02_opening_movie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cinecaption.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/escape/css/cinecaption.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02_opening_movie.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/escape/js/02_opening_movie.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03_rule_introduction.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/escape/html/03_rule_introduction.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25862068">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.31034482">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsPractice/html/google.html">
+      <file leaf-file-name="02_serif_maker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/escape/js/02_serif_maker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="8" column="99" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/escape/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -99,8 +74,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -112,11 +87,14 @@
       <list>
         <option value="$PROJECT_DIR$/jsPractice/html/video.html" />
         <option value="$PROJECT_DIR$/jsPractice/js/video.js" />
-        <option value="$PROJECT_DIR$/escape/html/01_start_button.html" />
         <option value="$PROJECT_DIR$/escape/js/02_opening_movie.js" />
-        <option value="$PROJECT_DIR$/escape/html/02_opening_movie.html" />
         <option value="$PROJECT_DIR$/escape/css/cinecaption.css" />
+        <option value="$PROJECT_DIR$/escape/html/01_start_button.html" />
+        <option value="$PROJECT_DIR$/escape/html/11_stage_1_search.html" />
         <option value="$PROJECT_DIR$/escape/html/03_rule_introduction.html" />
+        <option value="$PROJECT_DIR$/escape/html/02_opening_movie.html" />
+        <option value="$PROJECT_DIR$/escape/js/02_serif_maker.js" />
+        <option value="$PROJECT_DIR$/escape/css/common.css" />
       </list>
     </option>
   </component>
@@ -126,8 +104,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
+    <option name="x" value="9" />
+    <option name="y" value="30" />
     <option name="width" value="1346" />
     <option name="height" value="701" />
   </component>
@@ -163,6 +141,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="escape_from_xmas" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="escape_from_xmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="escape_from_xmas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -340,9 +328,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/escape/font" />
-      <recent name="$PROJECT_DIR$/escape/js" />
       <recent name="$PROJECT_DIR$/escape/data" />
+      <recent name="$PROJECT_DIR$/escape/js" />
+      <recent name="$PROJECT_DIR$/escape/font" />
     </key>
   </component>
   <component name="RunManager">
@@ -391,6 +379,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6b91d9f6-b87b-41f1-a97d-0cd8d3635f59" name="Default" comment="" />
@@ -401,7 +392,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1346" height="701" extended-state="0" />
+    <frame x="9" y="30" width="1346" height="701" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -421,6 +412,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -470,55 +469,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/escape/html/02_opening_movie.html">
+    <entry file="file://$PROJECT_DIR$/escape/css/cinecaption.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.15517241">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/escape/js/02_opening_movie.js">
+    <entry file="file://$PROJECT_DIR$/escape/js/googleSearch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/js/keyControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/js/KonamiCommand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsPractice/html/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18103448">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/escape/html/01_start_button.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
+        <state vertical-scroll-proportion="0.20689656">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/escape/css/cinecaption.css">
+    <entry file="file://$PROJECT_DIR$/escape/html/11_stage_1_search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jsPractice/html/google.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="99" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.05172414">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/js/02_opening_movie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14900662">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/escape/html/03_rule_introduction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25862068">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="73" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/js/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/js/02_serif_maker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/escape/html/02_opening_movie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31034482">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

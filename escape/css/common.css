@@ -1,0 +1,20 @@
+#video {
+    width: 1366px;
+    height: 778px;
+    z-index: 1;
+    position: relative;
+}
+
+.serif_box {
+    background-color: rgba(211, 211, 211, 0.6);
+    display: none;
+    z-index: 2;
+    position: fixed;
+    color: white;
+    width: 1066px;
+    height: 578px;
+    margin: 100px 150px;
+    -webkit-text-stroke-color: #000;
+    -webkit-text-stroke-width: 3px;
+    font-size:50px;
+}
