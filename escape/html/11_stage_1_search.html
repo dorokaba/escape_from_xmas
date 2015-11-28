@@ -2,21 +2,30 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../css/common.css">
+    <link rel="stylesheet" type="text/css" href="../css/cinecaption.css">
     <script language="JavaScript" type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
     <script language="JavaScript" type="text/javascript" src="../js/KonamiCommand.js"></script>
     <script language="JavaScript" type="text/javascript" src="../js/keyControl.js"></script>
     <script language="JavaScript" type="text/javascript" src="../js/timer.js"></script>
     <script language="JavaScript" type="text/javascript" src="../js/googleSearch.js"></script>
+    <script language="JavaScript" type="text/javascript" src="../js/positionClick.js"></script>
 </head>
 <body style="text-align: center; background-image: url('../data/03_rule.gif'); background-size: cover;">
-    <div style="padding: 40px 0 0 0;">
-        <img src="../data/googlelogo_color_272x92dp.png"><br>
+    <div id="clickable">
+        <div style="padding: 40px 0 0 0;">
+            <img src="../data/googlelogo_color_272x92dp.png"><br>
+        </div>
+        <input id="box" type="text"><br><br>
+        <button id="search" onclick="search();">Google Search</button>
+        <input id="command" type="hidden">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br>
+        <span id="timer_wrapper">
+            <span id="hou">01</span>
+            <span id="min">00</span>
+            <span id="sec">00</span>
+        </span>
     </div>
-    <input id="box" type="text"><br><br>
-    <button id="search" onclick="search();">Google Search</button>
-    <input id="command" type="hidden">
-    <span id="hou">01</span>
-    <span id="min">00</span>
-    <span id="sec">00</span><br>
 </body>
 </html>

@@ -18,3 +18,16 @@
     -webkit-text-stroke-width: 3px;
     font-size:50px;
 }
+
+#clickable {
+    width: 1366px;
+    height: 778px;
+    margin:0;
+    padding:0;
+}
+
+#timer_wrapper {
+    margin-top: 650px;
+    font-size: 80px;
+    color: white;
+}
